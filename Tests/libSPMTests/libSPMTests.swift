@@ -6,6 +6,6 @@ final class libSPMTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(libSPMTests().text, "Hello, World!")
+        XCTAssertEqual(SPM().text, "Hello, World!")
     }
 }
